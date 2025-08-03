@@ -112,7 +112,8 @@ python database/rebuild_faiss_db.py
 
 ### 自定义线上部署
 ```bash
-python main.py --deploy local  # 先本地
+python main.py --deploy local
+(new shell)
 python deploy.py
 
 # 将 deploy_temp 目录推送到自定义GitHub
