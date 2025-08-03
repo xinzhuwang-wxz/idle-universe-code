@@ -1,8 +1,8 @@
 # (G)I-DLE Universe - 智能问答系统
-
+![米米嘟](https://github.com/xinzhuwang-wxz/idle-universe-code/blob/main/group_2.jpg)
 ## 🎯 项目简介
 
-(G)I-DLE Universe 是一个基于大语言模型的智能问答系统，专门为 (G)I-DLE 粉丝和研究者提供全面的团体信息查询服务。系统通过爬取公开网站信息，构建知识库，并利用先进的 RAG (Retrieval-Augmented Generation) 技术提供准确的问答服务。
+(G)I-DLE Universe 是一个基于大语言模型的智能问答系统，专门为 (G)I-DLE 粉丝和研究者提供全面的团体信息查询服务。系统通过爬取公开网站信息，构建知识库，并利用先进的 RAG (Retrieval-Augmented Generation) 技术提供准确的问答服务。线上网站可以问主包
 
 ## ✨ 主要功能
 
