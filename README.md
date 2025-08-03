@@ -81,14 +81,12 @@ pip install -r requirements.txt
 ### 一键启动
 
 ```bash
-# 方式1：完整流程（推荐）
+# 体验网站：问主包要
+
+# 方式2：完整流程本地部署（推荐）
 python main.py --deploy local
 
-# 方式2：仅启动本地服务
-python serve/gradio_app.py
-
-# 方式3：仅启动线上服务
-streamlit run serve/streamlit_app.py
+# 方式3：自定义线上部署 （见下文）
 ```
 
 
@@ -114,7 +112,7 @@ python database/rebuild_faiss_db.py
 
 ### 自定义线上部署
 ```bash
-# 创建向量数据库
+python main.py --deploy local  # 先本地
 python deploy
 
 # 将 deploy_temp 目录推送到自定义GitHub
