@@ -162,9 +162,6 @@ ZHIPUAI_API_KEY=your_zhipuai_api_key
 3. 提交更改
 4. 发起 Pull Request
 
-## 📝 许可证
-
-本项目采用 MIT 许可证。
 
 ## 🙏 致谢
 
